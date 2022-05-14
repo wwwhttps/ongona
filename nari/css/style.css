@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+*{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+a{
+    
+    text-decoration: none !important;
+}
+h2{
+    font-weight: 900;
+}
+p{
+    font-weight: 500;
+}
+.logo{
+    height: 1.7rem;
+    margin-top: 1%;
+}
+main .img1 {
+  
+   
+    background: linear-gradient(black,#fff);
+    
+    
+}
+button.btn {
+    background: #AD0000;
+    color: #fff;
+    border-radius: 10px;
+}
+.intro {
+    position: relative;
+}
+ 
+.text-con p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+img.profile {
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 0.7rem;
+}
+.use {
+    margin-top: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+ 
+.mt-5.card {
+  width: 400px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    background:rgb(227 227 227 / 52%);
+    border-radius: 15px;
+    padding: 1rem;
+    margin: 26px;
+}
+.card-text h2 {
+    font-size: 1rem;
+}
+.card-text {
+    padding-left: 10px;
+}
+.extra {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25%;
+    
+    
+}
+
+.sign-up-text p {width: 218%;font-size: 1.5rem;}
+
+.sign-up-main {display: flex;}
+
+.sign-up-text {width: 317px;/* margin-left: 7%; */}
+
+.sign-up-img {width: 294px;margin-top: -24%;}
+
+
+
+.sign-up-img img {/* width: 100%; */height: 543px;margin-left: 161%;margin-top: 40%;}
+
+footer {
+    display: flex;
+   
+    position: absolute;
+margin-left: 15%;}
+
+
+img.footer-img {width: 9rem;}
+.container-fluid{
+    padding: 0;
+}
+.card-con.row {
+    margin-left: 11%;
+}
+
+center.intro-slider-text {
+    position: absolute;
+    z-index: 444;
+    height: 119vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 37%;
+}
+a.nav-link.active {
+    margin-left: 17px;
+}
